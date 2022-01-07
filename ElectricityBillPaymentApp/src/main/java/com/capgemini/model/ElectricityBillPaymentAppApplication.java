@@ -9,7 +9,7 @@ public class ElectricityBillPaymentAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ElectricityBillPaymentAppApplication.class, args);
 		
-		System.out.println("entry from sushma");
+		System.out.println("entry from sushma o naik");
 	}
 
 }
